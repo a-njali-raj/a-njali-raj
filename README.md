@@ -1,22 +1,31 @@
-# Hi 👋, I'm Anjali Raj
+<!-- 🌟 Header with Typing Animation -->
 
-💻 Software Engineer | Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Anjali Raj</h1>
 
----
+<p align="center">
+  💻 Software Engineer | Full-Stack Developer <br>
+  🚀 React • .NET • Django 
+</p>
 
-### 🧠 About Me
-
-I'm a Software Engineer with 1+ year of experience in full-stack web development, specializing in building scalable and user-friendly applications.
-
-I work with technologies like React, .NET, and Python Django, and have a strong foundation in SQL (MySQL, PostgreSQL) and backend development. I enjoy solving real-world problems, collaborating in Agile teams, and delivering production-ready features.
-
-🎓 MCA graduate with a strong background in Mathematics
-☁️ Interested in Cloud, Web Applications, and Software Development
-🚀 Passionate about continuous learning and building impactful projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Cloud+%7C+React+%7C+.NET+%7C+Django" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
+
+I'm a Software Engineer with 1+ year of experience in full-stack development, building scalable and user-friendly applications.
+
+* 🔭 Currently working at **Appfabs Innovation Pvt. Ltd.**
+* 🌱 Working with **React, .NET, Django**
+* 🧠 Strong in **SQL (MySQL, PostgreSQL)** and backend systems
+* 🎯 Focused on building real-world, production-ready applications
+* 🎓 MCA Graduate with a Mathematics background
+
+---
+
+## 🛠️ Tech Stack
 
 **💻 Languages**
 
@@ -48,37 +57,65 @@ I work with technologies like React, .NET, and Python Django, and have a strong 
   <img src="https://skillicons.dev/icons?i=aws,azure,git,postman,figma" />
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+### 🔬 E-Diagnostic Laboratory Management System
+
+* Full-stack diagnostic booking platform
+* Built with **Django, HTML, CSS**
+* Features: Authentication, booking system, order management
+* ☁️ Deployed on AWS
 
 ---
 
-### 🚀 Projects
+### ✍️ Personal Blog Application
 
-* 🔬 **E-Diagnostic Laboratory Management System**
-  Built a full-stack web platform for diagnostic booking using Django, with authentication, booking, and AWS deployment
-
-* ✍️ **Personal Blog Application**
-  Developed a dynamic blogging platform with user interaction features using Django, Bootstrap, and JavaScript
+* Interactive blogging platform
+* Built with **Django, Bootstrap, JavaScript**
+* Features: Posts, comments, user follow system
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
-**Software Engineer – Appfabs Innovation Pvt. Ltd.**
+**Software Engineer — Appfabs Innovation Pvt. Ltd.**
 📅 Sept 2024 – Present
 
-* Developed full-stack features using React, .NET, and Python
-* Built responsive UI and backend systems following SDLC & Agile
+* Developed full-stack features using React, .NET, Python
+* Built scalable UI and backend systems using Agile & SDLC
 * Collaborated with teams and improved application performance
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-njali-raj\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a-njali-raj&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-njali-raj&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Connect with Me
+## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/anjali-raj032001
-* 📧 Email: [anjalyrajkp@gmail.com](mailto:anjalyrajkp@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/anjali-raj032001">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:anjalyrajkp@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## ✨ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a-njali-raj&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
