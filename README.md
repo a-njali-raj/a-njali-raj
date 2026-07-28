@@ -4,88 +4,119 @@
 
 <p align="center">
   💻 Software Engineer | Full-Stack Developer <br>
-  🚀 React • .NET • Django 
+  🚀 .NET • ASP.NET Core • React
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;React+%7C+.NET+%7C+Django" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Building+Scalable+.NET+Applications;.NET+%7C+React+%7C+ASP.NET+Core" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a Software Engineer with 1+ year of experience in full-stack development, building scalable and user-friendly applications.
+I'm a **Software Engineer** with **2 years of experience** in full-stack application development, specializing in **.NET, ASP.NET Core, React, and SQL databases**.
 
-* 🔭 Currently working at **Appfabs Innovation Pvt. Ltd.**
-* 🌱 Working with **React, .NET, Django**
-* 🧠 Strong in **SQL (MySQL, PostgreSQL)** and backend systems
-* 🎯 Focused on building real-world, production-ready applications
-* 🎓 MCA Graduate with a Mathematics background
+- 💼 Software Engineer at **Appfabs Innovation Pvt. Ltd.**
+- 🚀 Developing backend services and REST APIs using **.NET 8, ASP.NET Core, Dapper, PostgreSQL, and Redis**
+- 📄 Developing features for **Microsoft Word and Outlook Add-ins** using **React, Office.js, Angular, and Redux-Saga**
+- ⚖️ Contributing to **Legal Technology Solutions**, including **Playbook Management System** and **Compliance Checker**
+- ☁️ Working with **AWS, Azure DevOps, Git, and CI/CD**
+- 🎓 MCA Graduate with a Mathematics background
+- 🌱 Passionate about building scalable, production-ready applications and continuously learning modern technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-**💻 Languages**
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,js" />
+  <img src="https://skillicons.dev/icons?i=cs,js,python" />
 </p>
 
-**⚙️ Frameworks & Libraries**
+### ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,dotnet,react" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,django" />
 </p>
 
-**🌐 Frontend**
+- ASP.NET Core
+- Office.js
+- Dapper
+- Redux-Saga
+
+---
+
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
-**🗄️ Databases**
+---
+
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-**☁️ Tools & Platforms**
+- Redis
+
+---
+
+### ☁️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,git,postman,figma,visualstudio" />
 </p>
+
+- Azure DevOps
+- GitHub Actions
+
+---
+
+## 💼 Professional Experience
+
+### 💻 Software Engineer — Appfabs Innovation Pvt. Ltd.
+📅 **September 2024 – Present**
+
+- Developed and maintained **.NET 8/ASP.NET Core** backend applications using **C#, Dapper, PostgreSQL, Redis, and REST APIs** for the **Playbook Management System** and **Compliance Checker**.
+- Developed features for **Microsoft Word and Outlook Add-ins** using **React, Office.js, Angular, and Redux-Saga**, implementing AI-powered document editing, contract compliance validation, PDF conversion, and user experience enhancements.
+- Implemented database migrations, unit/integration testing, SonarQube quality improvements, and collaborated in Agile teams using Git and Azure DevOps.
 
 ---
 
 ## 🚀 Featured Projects
 
+### ⚖️ Legal Technology Platform
+
+- Playbook Management System
+- Compliance Checker
+- Microsoft Word Add-in
+- Outlook PDF Converter
+
+**Tech Stack:**  
+`.NET 8` • `ASP.NET Core` • `React` • `Office.js` • `PostgreSQL` • `Redis` • `Dapper`
+
+---
+
 ### 🔬 E-Diagnostic Laboratory Management System
 
-* Full-stack diagnostic booking platform
-* Built with **Django, HTML, CSS**
-* Features: Authentication, booking system, order management
-* ☁️ Deployed on AWS
+- Full-stack diagnostic management platform
+- Built using **Django, HTML, CSS, JavaScript**
+- Features: Authentication, Booking, Order Management
+- ☁️ Deployed on AWS
 
 ---
 
-### ✍️ Personal Blog Application
+## 🌱 Currently Learning
 
-* Interactive blogging platform
-* Built with **Django, Bootstrap, JavaScript**
-* Features: Posts, comments, user follow system
-
----
-
-## 💼 Experience
-
-**Software Engineer — Appfabs Innovation Pvt. Ltd.**
-📅 Sept 2024 – Present
-
-* Developed full-stack features using React, .NET, Python
-* Built scalable UI and backend systems using Agile & SDLC
-* Collaborated with teams and improved application performance
+- Advanced ASP.NET Core
+- Cloud Architecture
+- System Design
+- Microservices
 
 ---
 
@@ -97,6 +128,10 @@ I'm a Software Engineer with 1+ year of experience in full-stack development, bu
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-njali-raj&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-njali-raj&layout=compact&theme=tokyonight" />
 </p>
 
 ---
